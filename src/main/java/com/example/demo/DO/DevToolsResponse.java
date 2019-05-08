@@ -6,7 +6,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author Lero
+ * @author Huxiaoxue
  * @version V1.0
  * @ClassName:DevToolsResponse
  * @Description:
